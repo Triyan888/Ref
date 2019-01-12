@@ -1,0 +1,18 @@
+C:\Users\asus\Downloads\Compressed\8-Number-Puzzle-Game-master\8 Number Puzzle Game\number game\bin\Debug\number game.exe
+C:\Users\asus\Downloads\Compressed\8-Number-Puzzle-Game-master\8 Number Puzzle Game\number game\bin\Debug\number game.pdb
+C:\Users\asus\Downloads\Compressed\8-Number-Puzzle-Game-master\8 Number Puzzle Game\number game\obj\x86\Debug\number_game.Form1.resources
+C:\Users\asus\Downloads\Compressed\8-Number-Puzzle-Game-master\8 Number Puzzle Game\number game\obj\x86\Debug\number_game.Properties.Resources.resources
+C:\Users\asus\Downloads\Compressed\8-Number-Puzzle-Game-master\8 Number Puzzle Game\number game\obj\x86\Debug\Katanya Puzzle.csproj.GenerateResource.Cache
+C:\Users\asus\Downloads\Compressed\8-Number-Puzzle-Game-master\8 Number Puzzle Game\number game\obj\x86\Debug\number game.exe
+C:\Users\asus\Downloads\Compressed\8-Number-Puzzle-Game-master\8 Number Puzzle Game\number game\obj\x86\Debug\number game.pdb
+C:\Users\asus\Downloads\Compressed\8-Number-Puzzle-Game-master\8 Number Puzzle Game\number game\obj\x86\Debug\Katanya Puzzle.csprojResolveAssemblyReference.cache
+E:\KULIAH\Pemrograman Lanjut\Final\FIX\Katanya Puzzle\Katanya Puzzle\bin\Debug\katanya_puzzle.exe
+E:\KULIAH\Pemrograman Lanjut\Final\FIX\Katanya Puzzle\Katanya Puzzle\bin\Debug\katanya_puzzle.pdb
+E:\KULIAH\Pemrograman Lanjut\Final\FIX\Katanya Puzzle\Katanya Puzzle\obj\x86\Debug\katanya_puzzle.FormLevel2.resources
+E:\KULIAH\Pemrograman Lanjut\Final\FIX\Katanya Puzzle\Katanya Puzzle\obj\x86\Debug\katanya_puzzle.FormLevel1.resources
+E:\KULIAH\Pemrograman Lanjut\Final\FIX\Katanya Puzzle\Katanya Puzzle\obj\x86\Debug\katanya_puzzle.FormHome.resources
+E:\KULIAH\Pemrograman Lanjut\Final\FIX\Katanya Puzzle\Katanya Puzzle\obj\x86\Debug\katanya_puzzle.Properties.Resources.resources
+E:\KULIAH\Pemrograman Lanjut\Final\FIX\Katanya Puzzle\Katanya Puzzle\obj\x86\Debug\Katanya Puzzle.csproj.GenerateResource.Cache
+E:\KULIAH\Pemrograman Lanjut\Final\FIX\Katanya Puzzle\Katanya Puzzle\obj\x86\Debug\katanya_puzzle.exe
+E:\KULIAH\Pemrograman Lanjut\Final\FIX\Katanya Puzzle\Katanya Puzzle\obj\x86\Debug\katanya_puzzle.pdb
+E:\KULIAH\Pemrograman Lanjut\Final\FIX\Katanya Puzzle\Katanya Puzzle\obj\x86\Debug\Katanya Puzzle.csprojResolveAssemblyReference.cache

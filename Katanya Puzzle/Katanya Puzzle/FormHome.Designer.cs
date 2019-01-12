@@ -1,0 +1,104 @@
+﻿namespace katanya_puzzle
+{
+    partial class FormHome
+    {
+        /// <summary>
+        /// Required designer variable.
+        /// </summary>
+        private System.ComponentModel.IContainer components = null;
+
+        /// <summary>
+        /// Clean up any resources being used.
+        /// </summary>
+        /// <param name="disposing">true if managed resources should be disposed; otherwise, false.</param>
+        protected override void Dispose(bool disposing)
+        {
+            if (disposing && (components != null))
+            {
+                components.Dispose();
+            }
+            base.Dispose(disposing);
+        }
+
+        #region Windows Form Designer generated code
+
+        /// <summary>
+        /// Required method for Designer support - do not modify
+        /// the contents of this method with the code editor.
+        /// </summary>
+        private void InitializeComponent()
+        {
+            System.ComponentModel.ComponentResourceManager resources = new System.ComponentModel.ComponentResourceManager(typeof(FormHome));
+            this.pictureBox1 = new System.Windows.Forms.PictureBox();
+            this.pictureBoxStart = new System.Windows.Forms.PictureBox();
+            this.pictureBoxExit = new System.Windows.Forms.PictureBox();
+            ((System.ComponentModel.ISupportInitialize)(this.pictureBox1)).BeginInit();
+            ((System.ComponentModel.ISupportInitialize)(this.pictureBoxStart)).BeginInit();
+            ((System.ComponentModel.ISupportInitialize)(this.pictureBoxExit)).BeginInit();
+            this.SuspendLayout();
+            // 
+            // pictureBox1
+            // 
+            this.pictureBox1.BackColor = System.Drawing.Color.Transparent;
+            this.pictureBox1.BackgroundImage = global::katanya_puzzle.Properties.Resources.title;
+            this.pictureBox1.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Stretch;
+            this.pictureBox1.Location = new System.Drawing.Point(193, 45);
+            this.pictureBox1.Name = "pictureBox1";
+            this.pictureBox1.Size = new System.Drawing.Size(341, 125);
+            this.pictureBox1.SizeMode = System.Windows.Forms.PictureBoxSizeMode.StretchImage;
+            this.pictureBox1.TabIndex = 0;
+            this.pictureBox1.TabStop = false;
+            // 
+            // pictureBoxStart
+            // 
+            this.pictureBoxStart.BackgroundImage = global::katanya_puzzle.Properties.Resources.start;
+            this.pictureBoxStart.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Stretch;
+            this.pictureBoxStart.Location = new System.Drawing.Point(294, 229);
+            this.pictureBoxStart.Name = "pictureBoxStart";
+            this.pictureBoxStart.Size = new System.Drawing.Size(152, 41);
+            this.pictureBoxStart.TabIndex = 1;
+            this.pictureBoxStart.TabStop = false;
+            this.pictureBoxStart.Click += new System.EventHandler(this.pictureBoxStart_Click);
+            // 
+            // pictureBoxExit
+            // 
+            this.pictureBoxExit.BackgroundImage = global::katanya_puzzle.Properties.Resources.exit;
+            this.pictureBoxExit.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Stretch;
+            this.pictureBoxExit.Location = new System.Drawing.Point(294, 280);
+            this.pictureBoxExit.Name = "pictureBoxExit";
+            this.pictureBoxExit.Size = new System.Drawing.Size(152, 41);
+            this.pictureBoxExit.TabIndex = 2;
+            this.pictureBoxExit.TabStop = false;
+            this.pictureBoxExit.Click += new System.EventHandler(this.pictureBoxExit_Click);
+            // 
+            // FormHome
+            // 
+            this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
+            this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
+            this.BackgroundImage = global::katanya_puzzle.Properties.Resources.background;
+            this.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Stretch;
+            this.ClientSize = new System.Drawing.Size(714, 459);
+            this.Controls.Add(this.pictureBoxExit);
+            this.Controls.Add(this.pictureBoxStart);
+            this.Controls.Add(this.pictureBox1);
+            this.DoubleBuffered = true;
+            this.Icon = ((System.Drawing.Icon)(resources.GetObject("$this.Icon")));
+            this.MaximumSize = new System.Drawing.Size(730, 497);
+            this.MinimumSize = new System.Drawing.Size(730, 497);
+            this.Name = "FormHome";
+            this.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;
+            this.Text = "Katanya Puzzle";
+            ((System.ComponentModel.ISupportInitialize)(this.pictureBox1)).EndInit();
+            ((System.ComponentModel.ISupportInitialize)(this.pictureBoxStart)).EndInit();
+            ((System.ComponentModel.ISupportInitialize)(this.pictureBoxExit)).EndInit();
+            this.ResumeLayout(false);
+
+        }
+
+        #endregion
+
+        private System.Windows.Forms.PictureBox pictureBox1;
+        private System.Windows.Forms.PictureBox pictureBoxStart;
+        private System.Windows.Forms.PictureBox pictureBoxExit;
+    }
+}

@@ -1,0 +1,10 @@
+E:\KULIAH\Pemrograman Lanjut\Final\FIX\Katanya Puzzle\Katanya Puzzle\obj\x86\Release\Katanya Puzzle.csproj.GenerateResource.Cache
+E:\KULIAH\Pemrograman Lanjut\Final\FIX\Katanya Puzzle\Katanya Puzzle\bin\Release\katanya_puzzle.exe
+E:\KULIAH\Pemrograman Lanjut\Final\FIX\Katanya Puzzle\Katanya Puzzle\bin\Release\katanya_puzzle.pdb
+E:\KULIAH\Pemrograman Lanjut\Final\FIX\Katanya Puzzle\Katanya Puzzle\obj\x86\Release\katanya_puzzle.FormHome.resources
+E:\KULIAH\Pemrograman Lanjut\Final\FIX\Katanya Puzzle\Katanya Puzzle\obj\x86\Release\katanya_puzzle.Properties.Resources.resources
+E:\KULIAH\Pemrograman Lanjut\Final\FIX\Katanya Puzzle\Katanya Puzzle\obj\x86\Release\katanya_puzzle.exe
+E:\KULIAH\Pemrograman Lanjut\Final\FIX\Katanya Puzzle\Katanya Puzzle\obj\x86\Release\katanya_puzzle.pdb
+E:\KULIAH\Pemrograman Lanjut\Final\FIX\Katanya Puzzle\Katanya Puzzle\obj\x86\Release\Katanya Puzzle.csprojResolveAssemblyReference.cache
+E:\KULIAH\Pemrograman Lanjut\Final\FIX\Katanya Puzzle\Katanya Puzzle\obj\x86\Release\katanya_puzzle.FormLevel2.resources
+E:\KULIAH\Pemrograman Lanjut\Final\FIX\Katanya Puzzle\Katanya Puzzle\obj\x86\Release\katanya_puzzle.FormLevel1.resources
